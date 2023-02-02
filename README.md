@@ -1,1 +1,1 @@
-# S-nus_Inverter
+# Sinus_Inverter
