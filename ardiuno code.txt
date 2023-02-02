@@ -1,0 +1,63 @@
+// By Zafer YILDIZ (my first Arduino Code)
+void setup(){
+pinMode(8, OUTPUT);
+pinMode(9, OUTPUT);
+}
+void loop(){
+digitalWrite(8, HIGH);
+delayMicroseconds(500);
+digitalWrite(8, LOW);
+delayMicroseconds(500);
+digitalWrite(8, HIGH);
+delayMicroseconds(750);
+digitalWrite(8, LOW);
+delayMicroseconds(500);
+digitalWrite(8, HIGH);
+delayMicroseconds(1250);
+digitalWrite(8, LOW);
+delayMicroseconds(500);
+digitalWrite(8, HIGH);
+delayMicroseconds(2000);
+digitalWrite(8, LOW);
+delayMicroseconds(500);
+digitalWrite(8, HIGH);
+delayMicroseconds(1250);
+digitalWrite(8, LOW);
+delayMicroseconds(500);
+digitalWrite(8, HIGH);
+delayMicroseconds(750);
+digitalWrite(8, LOW);
+delayMicroseconds(500);
+digitalWrite(8, HIGH);
+delayMicroseconds(500);
+digitalWrite(8, LOW);
+//......
+digitalWrite(9, HIGH);
+delayMicroseconds(500);
+digitalWrite(9, LOW);
+delayMicroseconds(500);
+digitalWrite(9, HIGH);
+delayMicroseconds(750);
+digitalWrite(9, LOW);
+delayMicroseconds(500);
+digitalWrite(9, HIGH);
+delayMicroseconds(1250);
+digitalWrite(9, LOW);
+delayMicroseconds(500);
+digitalWrite(9, HIGH);
+delayMicroseconds(2000);
+digitalWrite(9, LOW);
+delayMicroseconds(500);
+digitalWrite(9, HIGH);
+delayMicroseconds(1250);
+digitalWrite(9, LOW);
+delayMicroseconds(500);
+digitalWrite(9, HIGH);
+delayMicroseconds(750);
+digitalWrite(9, LOW);
+delayMicroseconds(500);
+digitalWrite(9, HIGH);
+delayMicroseconds(500);
+digitalWrite(9, LOW);
+}
+//-------------------------------------//
